@@ -14,13 +14,13 @@ export const AuthProvider = ({ children }) => {
         errorUser,
         setErrorUser,
         login: () => {
-          console.log("Login");
+          console.log("Call Login Function");
         },
         register: () => {
-          console.log("register");
+          console.log("Call Register Function");
         },
         logout: () => {
-          console.log("logout");
+          console.log("Logout");
         },
       }}
     >

@@ -3,7 +3,8 @@
 This mobile application is built using React Native with Expo, featuring a robust tech stack that includes the Context API for state management, TailwindCSS for styling, Axios for seamless API data fetching, and efficient caching with SWR. The app also incorporates stack navigation and bottom tabs navigation for a smooth user experience.
 
 **Key Features:**
--    ** React Native and Expo**: Developed using the React Native framework and Expo to ensure cross-platform compatibility and rapid development.
+
+- ** React Native and Expo**: Developed using the React Native framework and Expo to ensure cross-platform compatibility and rapid development.
 
 -     **Context API**: Utilizes the Context API for efficient state management, enabling global data sharing between components.
 
