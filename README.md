@@ -1,6 +1,6 @@
-## # React Native (Expo) App Starter Kit
+### React Native (Expo) App Starter Kit
 
-These are some of the packages that I have used for this project.
+These are some of the latest technologies that I have used for this project.
 -    Expo Google Fonts
 -    React Navigation
 -   Axios 
